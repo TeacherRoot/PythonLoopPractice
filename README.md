@@ -172,42 +172,42 @@ Sample Data<br>
 12<br>
 
 ### Sample Output<br>
-# <br>
-<br> 
-# <br>
-## <br>
- <br>
-# <br>
-## <br>
-### <br>
+<p> # <br></p>
+<p></p></p>
+# <br></p>
+## <br></p>
+ <br></p>
+# <br></p>
+## <br></p>
+### <br></p>
  
-# <br>
-## <br>
-### <br>
-#### <br>
+<p> # <br></p>
+<p> ## <br></p>
+<p> ### <br></p>
+<p> #### <br></p>
  
-# <br>
-## <br>
-### <br>
-#### <br>
-##### <br>
-###### <br>
-####### <br>
-######## <br>
-######### <br>
+<p> # <br></p>
+<p> ## <br></p>
+<p> ### <br></p>
+<p> #### <br></p>
+<p> ##### <br></p>
+<p> ###### <br></p>
+<p> ####### <br></p>
+<p> ######## <br></p>
+<p> ######### <br></p>
  
-# <br>
-## <br>
-### <br>
-#### <br>
-##### <br>
-###### <br>
-####### <br>
-######## <br>
-######### <br>
-########## <br>
-########### <br>
-############<br>
+<p> # <br></p>
+<p> ## <br></p>
+<p> ### <br></p>
+<p> #### <br></p>
+<p> ##### <br></p>
+<p> ###### <br></p>
+<p> ####### <br></p>
+<p> ######## <br></p>
+<p> ######### <br></p>
+<p> ########## <br></p>
+<p> ########### <br></p>
+<p> ############<br></p>
 
 # Assignment 7
 Lab Goal :   This lab was designed to teach you more about nested loops and conditions.
@@ -223,47 +223,45 @@ Sample Data
 12<br>
 
 Sample Output<br>
-# 
+# </p>
  
-  # 
- ## 
+  # </p>
+ ## </p>
  
-   # 
-  ## 
- ### 
+   # </p>
+  ## </p>
+ ### </p>
  
-    # 
-   ## 
-  ### 
- #### 
+    # </p>
+   ## </p>
+  ### </p>
+ #### </p>
  
-         # 
-        ## 
-       ### 
-      #### 
-     ##### 
-    ###### 
-   ####### 
-  ######## 
- ######### 
+         # </p>
+        ## </p>
+       ### </p>
+      #### </p>
+     ##### </p>
+    ###### </p>
+   ####### </p>
+  ######## </p>
+ ######### </p>
  
-            # 
-           ## 
-          ### 
-         #### 
-        ##### 
-       ###### 
-      ####### 
-     ######## 
-    ######### 
-   ########## 
-  ########### 
- ############
+            # </p>
+           ## </p>
+          ### </p>
+         #### </p>
+        ##### </p>
+       ###### </p>
+      ####### </p>
+     ######## </p>
+    ######### </p>
+   ########## </p>
+  ########### </p>
+ ############</p>
 
-# Assignment 8
-Lab Goal :   This lab was designed to teach you more about nested loops and conditions.
-
-Lab Description :   Write a program that will read in a number and then print out a triangle of #s using nested loops.  
+# Assignment 8 HACKER 
+### Lab Description :   Write a program that will read in a number and then print out a triangle of #s using nested loops.  
 
 Sample Data
 1<br>
@@ -307,7 +305,7 @@ Sample Output
        77 <br>
         8 <br>
 
-# Assignment 9
+# Assignment 9 HACKER
 Lab Goal :   This lab was designed to teach you how to use nested loops.  You will also learn how to make some cool shapes.  
 
 Lab Description :   Used nested loops to print out a letter pattern as shown below.  Wrap around the letters from Z to A.  You will need to know the ASCII values of capital letters.
